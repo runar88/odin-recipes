@@ -1,0 +1,1 @@
+ In this project I will put to use all the skills I've learned thus far. They include making a html boilerplate and setting up very basic website containing images and links using HTML code. I will also have to use git to back up my files
